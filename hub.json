@@ -1,0 +1,29 @@
+{
+  "arxiv_query": "abs:Huawei OR abs:MindSpore OR abs:\"Ascend NPU\" OR abs:PanGu",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "PROJ",
+      "queries": [
+        "org:mindspore-ai",
+        "org:huaweicloud"
+      ]
+    },
+    {
+      "key": "CODE",
+      "queries": [
+        "org:huawei-noah",
+        "org:Ascend"
+      ]
+    },
+    {
+      "key": "COMM",
+      "queries": [
+        "mindspore",
+        "ascend npu"
+      ]
+    }
+  ]
+}
