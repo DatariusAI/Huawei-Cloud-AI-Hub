@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **ModelArts, MindSpore, A
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-21 04:36 UTC_
+_Last refreshed: 2026-10-22 04:35 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -21,14 +21,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-10-21 | [YingLan: A Multimodal Ocean Foundation Model for Unified Representation Learning from Heterogeneous Observations](https://arxiv.org/abs/2610.29313) | Sen Jia et al. |
+| 2026-10-21 | [TrainBridge: Agentic NPU Training Optimization Guided by GPU Compilation Evidence](https://arxiv.org/abs/2610.29171) | Yupeng Chen et al. |
 | 2026-10-20 | [Beyond Experience: Knowledge-Guided Evolution for NPU Kernel Generation](https://arxiv.org/abs/2610.27588) | Xi Chen et al. |
 | 2026-10-14 | [HankelKANet: Lightweight Path Loss Estimation via Physics-Inspired Hankel Convolution](https://arxiv.org/abs/2610.19524) | Yue Ruan et al. |
 | 2026-10-11 | [Grounding Deep Learning Framework Testing in Data Flow](https://arxiv.org/abs/2610.15808) | Jiatao Ge et al. |
 | 2026-10-10 | [GMM: Generalized OS Memory Management for Programmable XPUs](https://arxiv.org/abs/2610.14532) | Weixi Zhu et al. |
 | 2026-10-09 | [Diffusion Precipitation Generation with Medium-range Weather Forecasting](https://arxiv.org/abs/2610.12976) | Guowen Li et al. |
 | 2026-10-08 | [Learning Kilometer-Scale Weather Prediction with Global-Regional Alignment](https://arxiv.org/abs/2610.12401) | Guowen Li et al. |
-| 2026-10-07 | [Fast and Memory Efficient Offload Training Framework with Hybrid XPU Computation](https://arxiv.org/abs/2610.09657) | Zhiyi Yao et al. |
-| 2026-10-05 | [Acceleration of Data Analytics on Heterogeneous Supercloud Systems](https://arxiv.org/abs/2610.06291) | Georgios Zacharopoulos et al. |
 <!-- ARXIV:END -->
 
 ## 🚀 Projects (official and flagship)
@@ -39,10 +39,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 |---|---|---|---|---|
 | [huaweicloud/ModelArts-Lab](https://github.com/huaweicloud/ModelArts-Lab) | ModelArts-Lab是示例代码库。更多AI开发学习交流信息，请访问华为云AI开发者社区：huaweicloud.ai | Jupyter Notebook | 1,051 | 2026-10-20 |
 | [huaweicloud/spring-cloud-huawei](https://github.com/huaweicloud/spring-cloud-huawei) | Spring Cloud Huawei is a framework that makes it easier and productive to develop microservices with Spring Cloud. | Java | 579 | 2026-10-16 |
-| [huaweicloud/terraform-provider-huaweicloud](https://github.com/huaweicloud/terraform-provider-huaweicloud) | Terraform HuaweiCloud provider | Go | 275 | 2026-10-19 |
-| [mindspore-ai/akg](https://github.com/mindspore-ai/akg) | AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops wi | Python | 263 | 2026-10-19 |
+| [huaweicloud/terraform-provider-huaweicloud](https://github.com/huaweicloud/terraform-provider-huaweicloud) | Terraform HuaweiCloud provider | Go | 275 | 2026-10-21 |
+| [mindspore-ai/akg](https://github.com/mindspore-ai/akg) | AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops wi | Python | 263 | 2026-10-21 |
 | [huaweicloud/huaweicloud-mrs-example](https://github.com/huaweicloud/huaweicloud-mrs-example) | Examples for HUAWEI CLOUD MRS. |  | 243 | 2026-09-23 |
-| [mindspore-ai/docs](https://github.com/mindspore-ai/docs) | MindSpore document | Jupyter Notebook | 167 | 2026-10-20 |
+| [mindspore-ai/docs](https://github.com/mindspore-ai/docs) | MindSpore document | Jupyter Notebook | 167 | 2026-10-21 |
 <!-- PROJ:END -->
 
 ## 💻 Code samples and SDKs
@@ -54,7 +54,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [huawei-noah/HEBO](https://github.com/huawei-noah/HEBO) | Bayesian optimisation & Reinforcement Learning library developed by Huawei Noah's Ark Lab | Jupyter Notebook | 2,813 | 2026-10-12 |
 | [huawei-noah/trustworthyAI](https://github.com/huawei-noah/trustworthyAI) | Trustworthy AI related projects | Python | 1,147 | 2026-09-21 |
 | [huawei-noah/noah-research](https://github.com/huawei-noah/noah-research) | Noah Research | Python | 1,013 | 2026-08-18 |
-| [Ascend/pytorch](https://github.com/Ascend/pytorch) | Ascend PyTorch adapter (torch_npu). Mirror of https://gitcode.com/Ascend/pytorch | Python | 589 | 2026-10-21 |
+| [Ascend/pytorch](https://github.com/Ascend/pytorch) | Ascend PyTorch adapter (torch_npu). Mirror of https://gitcode.com/Ascend/pytorch | Python | 590 | 2026-10-22 |
 | [Ascend/TransferQueue](https://github.com/Ascend/TransferQueue) | An asynchronous streaming data management module for efficient post-training. | Python | 166 | 2026-10-15 |
 | [Ascend/triton-ascend](https://github.com/Ascend/triton-ascend) | Triton adapter for Ascend. Mirror of https://gitcode.com/ascend/triton-ascend | MLIR | 130 | 2026-05-18 |
 <!-- CODE:END -->
@@ -65,12 +65,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- COMM:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime wi | C++ | 15,412 | 2026-10-21 |
-| [data-infra/cube-studio](https://github.com/data-infra/cube-studio) | cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计 | Python | 2,561 | 2026-10-12 |
-| [datawhalechina/torch-rechub](https://github.com/datawhalechina/torch-rechub) | A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend. | Jupyter Notebook | 1,232 | 2026-10-19 |
-| [agi-brain/xuance](https://github.com/agi-brain/xuance) | XuanCe: A Comprehensive and Unified Deep Reinforcement Learning Library | Python | 1,089 | 2026-10-18 |
+| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime wi | C++ | 15,433 | 2026-10-22 |
+| [data-infra/cube-studio](https://github.com/data-infra/cube-studio) | cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计 | Python | 2,563 | 2026-10-12 |
+| [datawhalechina/torch-rechub](https://github.com/datawhalechina/torch-rechub) | A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend. | Jupyter Notebook | 1,233 | 2026-10-22 |
+| [agi-brain/xuance](https://github.com/agi-brain/xuance) | XuanCe: A Comprehensive and Unified Deep Reinforcement Learning Library | Python | 1,089 | 2026-10-21 |
 | [candle-org/MindAct](https://github.com/candle-org/MindAct) | MindSpore + 🤗Huggingface: Run any Transformers/Diffusers model on MindSpore with seamless compatibility and acceleration. | Python | 920 | 2026-09-01 |
-| [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) | DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs | C++ | 599 | 2026-10-14 |
+| [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) | DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs | C++ | 605 | 2026-10-14 |
 <!-- COMM:END -->
 
 ## 📚 Free learning resources
