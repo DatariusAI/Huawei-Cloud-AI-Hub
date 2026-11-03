@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **ModelArts, MindSpore, A
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-02 04:27 UTC_
+_Last refreshed: 2026-11-03 04:26 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -21,14 +21,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-11-01 | [ReWY: Faster Gradient Computation for Delta-Rule Attention Family](https://arxiv.org/abs/2611.01940) | Yi Zhang et al. |
+| 2026-11-01 | [Ascend-SpMM: Accelerating Sparse Matrix-Dense Matrix Multiplication on Ascend NPUs](https://arxiv.org/abs/2611.01936) | Jiahe Wang et al. |
+| 2026-10-29 | [UniTele: Learning Device-Conditioned Degradations for Unified Smartphone Telephoto Super-Resolution](https://arxiv.org/abs/2610.39617) | Yuchen Zhang et al. |
+| 2026-10-28 | [AnchorKV: Lossless Key-Value Cache Reconstruction from Layer-Sparse Residual Anchors](https://arxiv.org/abs/2611.00117) | Hao Li et al. |
 | 2026-10-27 | [SAGE: Saliency-Annealed Gated Encoder for Universal Vision Recognition](https://arxiv.org/abs/2610.36719) | Le Yang et al. |
 | 2026-10-22 | [Spark-Audio 1.0 Technical Report](https://arxiv.org/abs/2610.31292) | Chenyue Zhang et al. |
 | 2026-10-22 | [CANNBot-CAKE: Collaborative Agentic Kernel Evolution for Ascend NPU](https://arxiv.org/abs/2610.31034) | Deng Pan et al. |
 | 2026-10-21 | [YingLan: A Multimodal Ocean Foundation Model for Unified Representation Learning from Heterogeneous Observations](https://arxiv.org/abs/2610.29313) | Sen Jia et al. |
-| 2026-10-21 | [TrainBridge: Agentic NPU Training Optimization Guided by GPU Compilation Evidence](https://arxiv.org/abs/2610.29171) | Yupeng Chen et al. |
-| 2026-10-20 | [Beyond Experience: Knowledge-Guided Evolution for NPU Kernel Generation](https://arxiv.org/abs/2610.27588) | Xi Chen et al. |
-| 2026-10-14 | [HankelKANet: Lightweight Path Loss Estimation via Physics-Inspired Hankel Convolution](https://arxiv.org/abs/2610.19524) | Yue Ruan et al. |
-| 2026-10-11 | [Grounding Deep Learning Framework Testing in Data Flow](https://arxiv.org/abs/2610.15808) | Jiatao Ge et al. |
 <!-- ARXIV:END -->
 
 ## 🚀 Projects (official and flagship)
@@ -42,7 +42,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [huaweicloud/spring-cloud-huawei](https://github.com/huaweicloud/spring-cloud-huawei) | Spring Cloud Huawei is a framework that makes it easier and productive to develop microservices with Spring Cloud. | Java | 582 | 2026-10-30 |
 | [mindspore-ai/models](https://github.com/mindspore-ai/models) |  | Python | 367 | 2026-10-29 |
 | [huaweicloud/terraform-provider-huaweicloud](https://github.com/huaweicloud/terraform-provider-huaweicloud) | Terraform HuaweiCloud provider | Go | 275 | 2026-10-27 |
-| [mindspore-ai/akg](https://github.com/mindspore-ai/akg) | AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops wi | Python | 264 | 2026-10-31 |
+| [mindspore-ai/akg](https://github.com/mindspore-ai/akg) | AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops wi | Python | 264 | 2026-11-02 |
 <!-- PROJ:END -->
 
 ## 💻 Code samples and SDKs
@@ -51,11 +51,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [huawei-noah/HEBO](https://github.com/huawei-noah/HEBO) | Bayesian optimisation & Reinforcement Learning library developed by Huawei Noah's Ark Lab | Jupyter Notebook | 2,817 | 2026-10-12 |
+| [huawei-noah/HEBO](https://github.com/huawei-noah/HEBO) | Bayesian optimisation & Reinforcement Learning library developed by Huawei Noah's Ark Lab | Jupyter Notebook | 2,818 | 2026-10-12 |
 | [huawei-noah/trustworthyAI](https://github.com/huawei-noah/trustworthyAI) | Trustworthy AI related projects | Python | 1,154 | 2026-09-21 |
-| [huawei-noah/noah-research](https://github.com/huawei-noah/noah-research) | Noah Research | Python | 1,014 | 2026-10-23 |
-| [Ascend/pytorch](https://github.com/Ascend/pytorch) | As the core component of the Ascend for PyTorch community, TorchNPU is a deep learning adapter plugin built by Ascend for PyTorch, enabling  | Python | 598 | 2026-11-02 |
-| [Ascend/TransferQueue](https://github.com/Ascend/TransferQueue) | An asynchronous streaming data management module for efficient post-training. | Python | 170 | 2026-10-30 |
+| [huawei-noah/noah-research](https://github.com/huawei-noah/noah-research) | Noah Research | Python | 1,015 | 2026-10-23 |
+| [Ascend/pytorch](https://github.com/Ascend/pytorch) | As the core component of the Ascend for PyTorch community, TorchNPU is a deep learning adapter plugin built by Ascend for PyTorch, enabling  | Python | 598 | 2026-11-03 |
+| [Ascend/TransferQueue](https://github.com/Ascend/TransferQueue) | An asynchronous streaming data management module for efficient post-training. | Python | 171 | 2026-10-30 |
 | [Ascend/triton-ascend](https://github.com/Ascend/triton-ascend) | Triton adapter for Ascend. Mirror of https://gitcode.com/ascend/triton-ascend | MLIR | 130 | 2026-05-18 |
 <!-- CODE:END -->
 
@@ -65,11 +65,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- COMM:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime wi | C++ | 15,669 | 2026-10-29 |
+| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime wi | C++ | 15,693 | 2026-10-29 |
 | [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) | MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios. | C++ | 4,715 | 2026-10-28 |
-| [data-infra/cube-studio](https://github.com/data-infra/cube-studio) | cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计 | Python | 2,586 | 2026-10-12 |
-| [datawhalechina/torch-rechub](https://github.com/datawhalechina/torch-rechub) | A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend. | Jupyter Notebook | 1,238 | 2026-11-01 |
-| [agi-brain/xuance](https://github.com/agi-brain/xuance) | XuanCe: A Comprehensive and Unified Deep Reinforcement Learning Library | Python | 1,090 | 2026-10-21 |
+| [data-infra/cube-studio](https://github.com/data-infra/cube-studio) | cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计 | Python | 2,587 | 2026-10-12 |
+| [datawhalechina/torch-rechub](https://github.com/datawhalechina/torch-rechub) | A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend. | Jupyter Notebook | 1,238 | 2026-11-02 |
+| [agi-brain/xuance](https://github.com/agi-brain/xuance) | XuanCe: A Comprehensive and Unified Deep Reinforcement Learning Library | Python | 1,104 | 2026-10-21 |
 | [candle-org/MindAct](https://github.com/candle-org/MindAct) | MindSpore + 🤗Huggingface: Run any Transformers/Diffusers model on MindSpore with seamless compatibility and acceleration. | Python | 920 | 2026-09-01 |
 <!-- COMM:END -->
 
