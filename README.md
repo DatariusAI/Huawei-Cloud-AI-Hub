@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **ModelArts, MindSpore, A
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-24 04:27 UTC_
+_Last refreshed: 2026-11-25 04:28 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -21,14 +21,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-11-22 | [NPUFHE: An Efficient CKKS Execution System for Ascend NPUs](https://arxiv.org/abs/2611.29353) | Ke Changke et al. |
+| 2026-11-23 | [Evaluation of Machine-Learning Weather Models in Reproducing Mesoscale Tornado-Favorable Convective Environments](https://arxiv.org/abs/2611.31564) | Yiding Luo et al. |
+| 2026-11-23 | [Look Back, Draft Ahead: Corrective Prefix Attention for Parallel Speculative Decoding](https://arxiv.org/abs/2611.31112) | Mohammad Mahdi Moradi et al. |
+| 2026-11-22 | [NPUFHE: An Efficient CKKS Execution System for Ascend NPUs](https://arxiv.org/abs/2611.29353) | Ke Chang et al. |
 | 2026-11-20 | [Adaptive Warm-State Retention for Serverless Cold-Start Mitigation: Treating Keep-Alive Time as an Online Control Parameter](https://arxiv.org/abs/2611.28306) | Sanjeet Raj Pandey et al. |
 | 2026-11-20 | [cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](https://arxiv.org/abs/2611.27193) | Haowei He et al. |
 | 2026-11-18 | [RSIBench-Infra: Can Agents Optimize Training and Inference Infrastructure at Production Scale?](https://arxiv.org/abs/2611.24395) | Hanlin Wu et al. |
 | 2026-11-17 | [How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU](https://arxiv.org/abs/2611.22844) | Weronika Hryniewska-Guzik et al. |
 | 2026-11-17 | [Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference](https://arxiv.org/abs/2611.23339) | Shing Wai Pun et al. |
-| 2026-11-17 | [TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](https://arxiv.org/abs/2611.22115) | Xingchen AGI Lab et al. |
-| 2026-11-13 | [AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://arxiv.org/abs/2611.17621) | SLAI AI Training Platform Team et al. |
 <!-- ARXIV:END -->
 
 ## 🚀 Projects (official and flagship)
@@ -37,12 +37,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- PROJ:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) | MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios. | C++ | 4,729 | 2026-10-28 |
+| [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) | MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios. | C++ | 4,728 | 2026-10-28 |
 | [huaweicloud/ModelArts-Lab](https://github.com/huaweicloud/ModelArts-Lab) | ModelArts-Lab是示例代码库。更多AI开发学习交流信息，请访问华为云AI开发者社区：huaweicloud.ai | Jupyter Notebook | 1,050 | 2026-10-24 |
 | [huaweicloud/spring-cloud-huawei](https://github.com/huaweicloud/spring-cloud-huawei) | Spring Cloud Huawei is a framework that makes it easier and productive to develop microservices with Spring Cloud. | Java | 582 | 2026-11-20 |
 | [mindspore-ai/models](https://github.com/mindspore-ai/models) |  | Python | 367 | 2026-11-10 |
 | [huaweicloud/terraform-provider-huaweicloud](https://github.com/huaweicloud/terraform-provider-huaweicloud) | Terraform HuaweiCloud provider | Go | 275 | 2026-11-23 |
-| [mindspore-ai/akg](https://github.com/mindspore-ai/akg) | AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops wi | Python | 268 | 2026-11-20 |
+| [mindspore-ai/akg](https://github.com/mindspore-ai/akg) | AKG (Auto Kernel Generator) is an optimizer for operators in Deep Learning Networks, which provides the ability to automatically fuse ops wi | Python | 268 | 2026-11-25 |
 <!-- PROJ:END -->
 
 ## 💻 Code samples and SDKs
@@ -54,8 +54,8 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [huawei-noah/HEBO](https://github.com/huawei-noah/HEBO) | Bayesian optimisation & Reinforcement Learning library developed by Huawei Noah's Ark Lab | Jupyter Notebook | 2,822 | 2026-10-12 |
 | [huawei-noah/trustworthyAI](https://github.com/huawei-noah/trustworthyAI) | Trustworthy AI related projects | Python | 1,154 | 2026-09-21 |
 | [huawei-noah/noah-research](https://github.com/huawei-noah/noah-research) | Noah Research | Python | 1,018 | 2026-10-23 |
-| [Ascend/pytorch](https://github.com/Ascend/pytorch) | As the core component of the Huawei Ascend for PyTorch community, TorchNPU is a deep learning adapter plugin built by Ascend for PyTorch, en | Python | 609 | 2026-11-24 |
-| [Ascend/TransferQueue](https://github.com/Ascend/TransferQueue) | An asynchronous streaming data management module for efficient post-training. | Python | 177 | 2026-11-23 |
+| [Ascend/pytorch](https://github.com/Ascend/pytorch) | As the core component of the Huawei Ascend for PyTorch community, TorchNPU is a deep learning adapter plugin built by Ascend for PyTorch, en | Python | 609 | 2026-11-25 |
+| [Ascend/TransferQueue](https://github.com/Ascend/TransferQueue) | An asynchronous streaming data management module for efficient post-training. | Python | 178 | 2026-11-25 |
 | [Ascend/triton-ascend](https://github.com/Ascend/triton-ascend) | Triton adapter for Ascend. Mirror of https://gitcode.com/ascend/triton-ascend | MLIR | 130 | 2026-05-18 |
 <!-- CODE:END -->
 
@@ -65,11 +65,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- COMM:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime wi | C++ | 16,177 | 2026-11-24 |
-| [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) | MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios. | C++ | 4,729 | 2026-10-28 |
-| [data-infra/cube-studio](https://github.com/data-infra/cube-studio) | cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计 | Python | 2,621 | 2026-10-12 |
+| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime wi | C++ | 16,211 | 2026-11-24 |
+| [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) | MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios. | C++ | 4,728 | 2026-10-28 |
+| [data-infra/cube-studio](https://github.com/data-infra/cube-studio) | cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计 | Python | 2,623 | 2026-10-12 |
 | [datawhalechina/torch-rechub](https://github.com/datawhalechina/torch-rechub) | A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend. | Jupyter Notebook | 1,242 | 2026-11-23 |
-| [agi-brain/xuance](https://github.com/agi-brain/xuance) | XuanCe: A Comprehensive and Unified Deep Reinforcement Learning Library | Python | 1,114 | 2026-11-23 |
+| [agi-brain/xuance](https://github.com/agi-brain/xuance) | XuanCe: A Comprehensive and Unified Deep Reinforcement Learning Library | Python | 1,114 | 2026-11-24 |
 | [candle-org/MindAct](https://github.com/candle-org/MindAct) | MindSpore + 🤗Huggingface: Run any Transformers/Diffusers model on MindSpore with seamless compatibility and acceleration. | Python | 921 | 2026-09-01 |
 <!-- COMM:END -->
 
